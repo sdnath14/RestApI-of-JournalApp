@@ -12,3 +12,5 @@ Java 17+
 Spring Boot
 REST API
 Postman (for testing)
+
+I’ve got a thing for APIs and servers there’s just something real smooth about making the backend talk slick 😏⚙️💬 #BackendLove #CodeCrush
